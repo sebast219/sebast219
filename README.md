@@ -39,42 +39,26 @@
 <h2 align="center">🚀 <strong>DEVELOPER ARCHITECTURE</strong></h2>
 
 ```typescript
-interface Developer {
-  readonly identity: {
-    name: "Sebastian Yepes Padilla";
-    role: "Full Stack Engineer";
-    location: "Medellín, Colombia 🇨🇴";
-    company: "Quipux S.A.";
-  };
-  
-  readonly expertise: {
-    specialty: "Database Performance & Clean Architecture";
-    experience: "2+ years production";
-    users: "10,000+ daily active";
-    achievement: "75% DB latency reduction (2s → 0.5s)";
-  };
-  
-  readonly stack: {
-    frontend: ["Next.js 14", "React 18", "TypeScript", "TailwindCSS"];
-    backend: ["NestJS", "Node.js", "Java Spring Boot"];
-    database: ["PostgreSQL", "Oracle", "MongoDB"];
-    devops: ["Docker", "AWS", "Git", "CI/CD"];
-  };
-  
-  readonly architecture: ["Clean Architecture", "Domain-Driven Design", "Microservices"];
-  
-  readonly availability: ["Remote", "Relocation", "Full-time"];
-  
-  readonly languages: {
-    spanish: "Native";
-    english: "Professional B1";
-  };
-  
-  readonly currentFocus: "Scalable enterprise applications";
-}
-
-const sebastian: Developer = {
-  // Implementation details...
+const sebastian = {
+  name: "Sebastian Yepes Padilla",
+  role: "Full Stack Engineer",
+  location: "Medellín, Colombia 🇨🇴",
+  company: "Quipux S.A.",
+  specialty: "Database Performance & Clean Architecture",
+  experience: "2+ years production",
+  achievement: "75% DB latency reduction (2s → 0.5s)",
+  users: "10,000+ daily active",
+  frontend: ["Next.js 14", "React 18", "TypeScript", "TailwindCSS"],
+  backend: ["NestJS", "Node.js", "Java Spring Boot"],
+  database: ["PostgreSQL", "Oracle", "MongoDB"],
+  devops: ["Docker", "AWS", "Git", "CI/CD"],
+  architecture: ["Clean Architecture", "Domain-Driven Design"],
+  availability: ["Remote", "Relocation", "Full-time"],
+  languages: {
+    spanish: "Native",
+    english: "Professional B1"
+  },
+  currentFocus: "Scalable enterprise applications"
 };
 ```
 
