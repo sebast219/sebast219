@@ -54,15 +54,25 @@
 ```javascript
 const sebastian = {
   name: "Sebastian Yepes Padilla",
-  role: "Full Stack Developer",
+  role: "Full Stack Developer", 
   location: "Medellín, Colombia 🇨🇴",
   company: "Quipux S.A.",
   experience: "2+ years production",
   users: "10,000+ daily active",
   achievement: "75% DB latency reduction (2s → 0.5s)",
-  architecture: ["Clean Architecture", "Domain-Driven Design"],
-  availability: ["Remote", "Relocation", "Full-time"],
-  languages: ["Español (Native)", "English (Professional B1)"],
+  architecture: [
+    "Clean Architecture", 
+    "Domain-Driven Design"
+  ],
+  availability: [
+    "Remote", 
+    "Relocation", 
+    "Full-time"
+  ],
+  languages: [
+    "Español (Native)", 
+    "English (Professional B1)"
+  ],
   currentFocus: "Scalable enterprise applications"
 };
 ```
