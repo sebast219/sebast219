@@ -35,57 +35,6 @@
 
 <br>
 
-## `_` SOBRE MÍ
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="52%" valign="top">
-<pre><code>const sebastian = {
-  nombre:    "Sebastian Yepes Padilla",
-  rol:       "Full Stack Developer",
-  empresa:   "Quipux S.A. — Medellin",
-  exp:       "+2 años en produccion real",
-
-  impacto: {
-    usuarios:   "+10.000 activos/dia",
-    bd:         "-75% latencia Oracle",
-    sql:        "+40% velocidad queries",
-    cobertura:  "95% en pruebas Scrum",
-  },
-
-  arquitectura: [
-    "Clean Architecture",
-    "SOLID + DDD",
-    "JWT + RBAC",
-  ],
-
-  buscando:  "Remoto full-time",
-  idiomas:   ["Espanol (nativo)", "Ingles B1"],
-};</code></pre>
-</td>
-<td width="4%"></td>
-<td width="44%" valign="top">
-<pre><code>MISIONES ACTIVAS
-+ QUIPUX ENTERPRISE .... Produccion
-+ ECOMMERCE HAK 6 ...... En desarrollo
-+ CLEAN ARCH STUDY ..... Activo
-+ TRABAJO REMOTO ....... Busqueda activa
-
-ESTADO DEL SISTEMA
-Version:  v2.0 NestJS + Next.js 14
-Uptime:   2+ anos sin incidentes
-Zona:     GMT-5 Colombia
-Estado:   EN LINEA - DISPONIBLE</code></pre>
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
 ## `_` MÉTRICAS DE PRODUCCIÓN
 
 <div align="center">
@@ -128,7 +77,7 @@ Estado:   EN LINEA - DISPONIBLE</code></pre>
 
 <br>
 
-## `_` ARSENAL TECNOLÓGICO
+## `_` TECNOLÓGIAS
 
 <div align="center">
 
@@ -271,47 +220,6 @@ Estado:     Desarrollo activo</code></pre>
 
 <img src="https://streak-stats.demolab.com?user=sebast219&locale=es&mode=daily&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=aaaaaa&sideNums=ffffff&sideLabels=aaaaaa&dates=555555&border=222222" height="155"/>
 <img src="https://github-profile-trophy.vercel.app?username=sebast219&theme=darkhub&column=4&row=1&margin-w=6&background=000000&no-frame=false" height="155"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## `_` TRAYECTORIA DE CONTRIBUCIONES
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebast219/sebast219/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebast219/sebast219/output/snake.svg">
-  <img alt="Gráfico de contribuciones animado" src="https://raw.githubusercontent.com/sebast219/sebast219/output/snake.svg" width="100%">
-</picture>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## `_` FORMACIÓN EN CURSO
-
-<div align="center">
-
-| PROGRAMA | INSTITUCIÓN | ESTADO |
-|:---------|:-----------:|:------:|
-| Tecnología en Sistemas | IUSH | `🔄 EN CURSO · 2026` |
-| Full Stack Node.js · React · TypeScript · NestJS · Next.js | Udemy | `▓▓░░░░ 2%` |
-| Java 21 Completo | Udemy | `▓▓▓░░░ 15%` |
-| SQL con PostgreSQL — Guía Práctica | DevTalles | `▓▓░░░░ 10%` |
-| React y TypeScript — +10 Proyectos | Udemy | `▓░░░░░ 1%` |
-| N8N — Automatización con IA | Udemy | `⏳ EN COLA` |
-| Angular + Spring Boot Full Stack | Udemy | `⏳ EN COLA` |
-| Técnico en Desarrollo de Software | SENA | `✅ COMPLETADO · 2024` |
 
 </div>
 
