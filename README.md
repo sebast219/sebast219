@@ -39,29 +39,50 @@
 
 <h2 align="center">🚀 <strong>DEVELOPER ARCHITECTURE</strong></h2>
 
-```typescript
-const sebastian = {
-  name: "Sebastian Yepes Padilla",
-  role: "Full Stack Engineer",
-  location: "Medellín, Colombia 🇨🇴",
-  company: "Quipux S.A.",
-  specialty: "Database Performance & Clean Architecture",
-  experience: "2+ years production",
-  achievement: "75% DB latency reduction (2s → 0.5s)",
-  users: "10,000+ daily active",
-  frontend: ["Next.js 14", "React 18", "TypeScript", "TailwindCSS"],
-  backend: ["NestJS", "Node.js", "Java Spring Boot"],
-  database: ["PostgreSQL", "Oracle", "MongoDB"],
-  devops: ["Docker", "AWS", "Git", "CI/CD"],
-  architecture: ["Clean Architecture", "Domain-Driven Design"],
-  availability: ["Remote", "Relocation", "Full-time"],
-  languages: {
-    spanish: "Native",
-    english: "Professional B1"
-  },
-  currentFocus: "Scalable enterprise applications"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); border: 2px solid #00D9FF; border-radius: 15px; padding: 20px; margin: 10px;">
+          <h3 style="color: #00D9FF; margin-bottom: 15px;">👤 Identity</h3>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Name:</strong> Sebastian Yepes Padilla</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Role:</strong> Full Stack Engineer</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Location:</strong> Medellín, Colombia 🇨🇴</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Company:</strong> Quipux S.A.</p>
+        </div>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); border: 2px solid #39FF14; border-radius: 15px; padding: 20px; margin: 10px;">
+          <h3 style="color: #39FF14; margin-bottom: 15px;">🎯 Expertise</h3>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Specialty:</strong> Database Performance & Clean Architecture</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Experience:</strong> 2+ years production</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Achievement:</strong> 75% DB latency reduction</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Users:</strong> 10,000+ daily active</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); border: 2px solid #FF6B35; border-radius: 15px; padding: 20px; margin: 10px;">
+          <h3 style="color: #FF6B35; margin-bottom: 15px;">🛠️ Tech Stack</h3>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Frontend:</strong> Next.js 14, React 18, TypeScript, TailwindCSS</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Backend:</strong> NestJS, Node.js, Java Spring Boot</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Database:</strong> PostgreSQL, Oracle, MongoDB</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>DevOps:</strong> Docker, AWS, Git, CI/CD</p>
+        </div>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); border: 2px solid #FF006E; border-radius: 15px; padding: 20px; margin: 10px;">
+          <h3 style="color: #FF006E; margin-bottom: 15px;">🌟 Professional Info</h3>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Architecture:</strong> Clean Architecture, Domain-Driven Design</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Availability:</strong> Remote, Relocation, Full-time</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Languages:</strong> Spanish (Native), English (B1)</p>
+          <p style="color: #ffffff; margin: 5px 0;"><strong>Focus:</strong> Scalable enterprise applications</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -227,51 +248,70 @@ const sebastian = {
 <h2 align="center">🛡️ <strong>FEATURED PROJECT</strong></h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <h3>🛒 Ecommerce Hack 6</h3>
-        <p><em>Cybersecurity Tools Marketplace with Clean Architecture</em></p>
-        
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="Next.js">
-          <img src="https://skillicons.dev/icons?i=nestjs" height="25" alt="NestJS">
-          <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="PostgreSQL">
-          <img src="https://skillicons.dev/icons?i=stripe" height="25" alt="Stripe">
+  <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); border: 2px solid #00D9FF; border-radius: 20px; padding: 30px; max-width: 900px; margin: 20px auto;">
+    
+    <!-- Project Header -->
+    <div style="text-align: center; margin-bottom: 25px;">
+      <h3 style="color: #00D9FF; font-size: 28px; margin-bottom: 10px;">🛒 Ecommerce Hack 6</h3>
+      <p style="color: #ffffff; font-size: 16px; font-style: italic; margin: 0;">Cybersecurity Tools Marketplace with Clean Architecture</p>
+    </div>
+    
+    <!-- Tech Stack Icons -->
+    <div style="text-align: center; margin: 20px 0; padding: 15px; background: rgba(0, 217, 255, 0.1); border-radius: 10px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" style="margin: 0 8px;">
+      <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="NestJS" style="margin: 0 8px;">
+      <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" style="margin: 0 8px;">
+      <img src="https://skillicons.dev/icons?i=stripe" height="30" alt="Stripe" style="margin: 0 8px;">
+    </div>
+    
+    <!-- Features Grid -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 25px 0;">
+      <div style="background: rgba(57, 255, 20, 0.1); border: 1px solid #39FF14; border-radius: 10px; padding: 15px;">
+        <h4 style="color: #39FF14; margin: 0 0 10px 0;">🔐 Authentication</h4>
+        <p style="color: #ffffff; margin: 0; font-size: 14px;">JWT + Refresh Tokens</p>
+      </div>
+      <div style="background: rgba(255, 107, 53, 0.1); border: 1px solid #FF6B35; border-radius: 10px; padding: 15px;">
+        <h4 style="color: #FF6B35; margin: 0 0 10px 0;">👥 User System</h4>
+        <p style="color: #ffffff; margin: 0; font-size: 14px;">Multi-role (Admin/Vendor/User)</p>
+      </div>
+      <div style="background: rgba(255, 0, 110, 0.1); border: 1px solid #FF006E; border-radius: 10px; padding: 15px;">
+        <h4 style="color: #FF006E; margin: 0 0 10px 0;">💳 Payments</h4>
+        <p style="color: #ffffff; margin: 0; font-size: 14px;">Stripe Integration</p>
+      </div>
+      <div style="background: rgba(0, 217, 255, 0.1); border: 1px solid #00D9FF; border-radius: 10px; padding: 15px;">
+        <h4 style="color: #00D9FF; margin: 0 0 10px 0;">🧪 Architecture</h4>
+        <p style="color: #ffffff; margin: 0; font-size: 14px;">Clean + DDD</p>
+      </div>
+    </div>
+    
+    <!-- Status Badges -->
+    <div style="display: flex; justify-content: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
+      <div style="background: rgba(0, 255, 136, 0.2); border: 1px solid #00FF88; border-radius: 25px; padding: 8px 16px;">
+        <span style="color: #00FF88; font-weight: bold; font-size: 14px;">🟢 PRODUCTION</span>
+      </div>
+      <div style="background: rgba(255, 107, 53, 0.2); border: 1px solid #FF6B35; border-radius: 25px; padding: 8px 16px;">
+        <span style="color: #FF6B35; font-weight: bold; font-size: 14px;">🏗️ CLEAN ARCH</span>
+      </div>
+      <div style="background: rgba(0, 0, 0, 0.2); border: 1px solid #000000; border-radius: 25px; padding: 8px 16px;">
+        <span style="color: #ffffff; font-weight: bold; font-size: 14px;">⚡ DEPLOYED</span>
+      </div>
+    </div>
+    
+    <!-- Action Buttons -->
+    <div style="text-align: center; margin-top: 25px;">
+      <a href="https://github.com/sebast219/ecommerce-hack" style="text-decoration: none; margin: 0 10px;">
+        <div style="background: #181717; color: white; padding: 12px 24px; border-radius: 8px; display: inline-block; font-weight: bold; transition: all 0.3s;">
+          🔍 View Code
         </div>
-        
-        <div align="left">
-          <ul>
-            <li>🔐 JWT Authentication + Refresh Tokens</li>
-            <li>👥 Multi-role System (Admin/Vendor/User)</li>
-            <li>💳 Stripe Payment Integration</li>
-            <li>🧪 Clean Architecture + DDD</li>
-            <li>📱 Responsive Design</li>
-            <li>🛍️ Shopping Cart System</li>
-            <li>🔒 Security Best Practices</li>
-          </ul>
+      </a>
+      <a href="https://ecommerce-hack-sage.vercel.app" style="text-decoration: none; margin: 0 10px;">
+        <div style="background: #000000; color: white; padding: 12px 24px; border-radius: 8px; display: inline-block; font-weight: bold; transition: all 0.3s;">
+          🚀 Live Demo
         </div>
-        
-        <div align="center">
-          <a href="https://github.com/sebast219/ecommerce-hack">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
-          </a>
-          <a href="https://ecommerce-hack-sage.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-          </a>
-        </div>
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00FF88?style=for-the-badge&logoColor=white" alt="Status">
-        <br><br>
-        <img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN-FF6B35?style=for-the-badge&logoColor=white" alt="Architecture">
-        <br><br>
-        <img src="https://img.shields.io/badge/DEPLOYED-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed">
-        <br><br>
-        <img src="https://img.shields.io/badge/THEME-CYBERSECURITY-39FF14?style=for-the-badge&logoColor=white" alt="Theme">
-      </td>
-    </tr>
-  </table>
+      </a>
+    </div>
+    
+  </div>
 </div>
 
 <br>
