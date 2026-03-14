@@ -255,6 +255,10 @@ Estado:     Desarrollo activo</code></pre>
 
 <br>
 
+<img src="github/ecommerce-spacer.png" width="100%" alt="Ecommerce Spacer" />
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer&text=CONSTRUIDO+CON+PRECISI%C3%93N+%E2%80%94+MEDELL%C3%8DN%2C+COLOMBIA+%F0%9F%87%A8%F0%9F%87%B4&fontSize=14&fontColor=555555&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <!-- Sebastian Yepes Padilla · Full Stack Developer · github.com/sebast219 -->
