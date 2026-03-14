@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=SEBASTIAN%20YEPES&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&fontAlign=50&desc=%3C%20DESARROLLADOR%20FULL%20STACK%20%2F%3E%20%7C%20MEDELLIN%2C%20COLOMBIA&descSize=17&descAlignY=58&descColor=888888" width="100%"/>
- 
+
 <div align="center">
 
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=%3E+INICIALIZANDO+CONEXI%C3%93N...+%E2%9C%94+CONECTADO;%3E+10.000%2B+USUARIOS+ACTIVOS+EN+PRODUCCI%C3%93N;%3E+LATENCIA+DB+REDUCIDA+75%25+%E2%86%92+2s+A+0.5s;%3E+ARQUITECTURA+LIMPIA+%7C+NESTJS+%7C+NEXT.JS+14;%3E+DISPONIBLE+PARA+TRABAJO+REMOTO+%F0%9F%9F%A2)](https://git.io/typing-svg)
@@ -40,18 +40,16 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="52%" valign="top">
-
-```typescript
-const sebastian = {
+<pre><code>const sebastian = {
   nombre:    "Sebastian Yepes Padilla",
   rol:       "Full Stack Developer",
-  empresa:   "Quipux S.A. — Medellín 🇨🇴",
-  exp:       "+2 años en producción real",
+  empresa:   "Quipux S.A. — Medellin",
+  exp:       "+2 años en produccion real",
 
   impacto: {
-    usuarios:   "+10.000 activos/día",
-    bd:         "−75% latencia Oracle",
-    sql:        "+40% velocidad de queries",
+    usuarios:   "+10.000 activos/dia",
+    bd:         "-75% latencia Oracle",
+    sql:        "+40% velocidad queries",
     cobertura:  "95% en pruebas Scrum",
   },
 
@@ -61,35 +59,23 @@ const sebastian = {
     "JWT + RBAC",
   ],
 
-  buscando:  "Oportunidad remota full-time",
-  idiomas:   ["Español (nativo)", "Inglés B1"],
-};
-```
-
+  buscando:  "Remoto full-time",
+  idiomas:   ["Espanol (nativo)", "Ingles B1"],
+};</code></pre>
 </td>
 <td width="4%"></td>
 <td width="44%" valign="top">
+<pre><code>MISIONES ACTIVAS
++ QUIPUX ENTERPRISE .... Produccion
++ ECOMMERCE HAK 6 ...... En desarrollo
++ CLEAN ARCH STUDY ..... Activo
++ TRABAJO REMOTO ....... Busqueda activa
 
-### MISIONES ACTIVAS
-
-```diff
-+ QUIPUX ENTERPRISE .... Producción ✓
-+ ECOMMERCE HAK 6 ...... Desarrollo activo
-+ CLEAN ARCH STUDY ..... Investigación ✓
-+ TRABAJO REMOTO ....... Búsqueda activa
-```
-
-<br>
-
-### ESTADO DEL SISTEMA
-
-```yaml
-Versión:   v2.0 — NestJS + Next.js 14
-Uptime:    2+ años sin incidentes
-Zona:      GMT-5 · Colombia
-Estado:    EN LÍNEA · DISPONIBLE
-```
-
+ESTADO DEL SISTEMA
+Version:  v2.0 NestJS + Next.js 14
+Uptime:   2+ anos sin incidentes
+Zona:     GMT-5 Colombia
+Estado:   EN LINEA - DISPONIBLE</code></pre>
 </td>
 </tr>
 </table>
@@ -235,49 +221,35 @@ Estado:    EN LÍNEA · DISPONIBLE
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
-
-### 🛡️ ECOMMERCE HAK 6
-*Marketplace de herramientas de ciberseguridad*
-
-```
-Misión:       Plataforma ecommerce especializada en ciberseguridad
-Frontend:     Next.js 14 + TypeScript + Tailwind + Zustand
-Backend:      NestJS + Clean Architecture + JWT + Refresh Tokens
-Base datos:   PostgreSQL + Prisma ORM
-Pagos:        Integración con Stripe
-Roles:        Admin / Vendedor / Usuario
-Deploy:       Vercel (Frontend) · Railway (Backend)
-Estado:       🔄 Desarrollo activo
-```
-
+<h3>🛡️ ECOMMERCE HAK 6</h3>
+<p><em>Marketplace de herramientas de ciberseguridad</em></p>
+<pre><code>Mision:     Plataforma ecommerce ciberseguridad
+Frontend:   Next.js 14 + TypeScript + Tailwind + Zustand
+Backend:    NestJS + Clean Architecture + JWT
+DB:         PostgreSQL + Prisma ORM
+Pagos:      Stripe Integration
+Roles:      Admin / Vendedor / Usuario
+Deploy:     Vercel + Railway
+Estado:     Desarrollo activo</code></pre>
 <br>
-
-[![Ver Código](https://img.shields.io/badge/VER_CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebast219)
-[![Demo en Vivo](https://img.shields.io/badge/DEMO_EN_VIVO-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](https://ecommerce-hack-sage.vercel.app)
-
+<a href="https://github.com/sebast219"><img src="https://img.shields.io/badge/VER_CODIGO-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ecommerce-hack-sage.vercel.app"><img src="https://img.shields.io/badge/DEMO_EN_VIVO-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </td>
 <td width="45%" align="center" valign="middle">
-
-<br>
-
-```
-┌─────────────────────────────────┐
-│  ARQUITECTURA CLEAN             │
-│                                 │
-│  Presentación  ←  Controllers   │
-│       ↑                         │
-│  Aplicación    ←  Casos de uso  │
-│       ↑                         │
-│  Dominio       ←  Entidades     │
-│       ↑                         │
-│  Infraestructura ← Prisma/DB    │
-│                                 │
-│  ✓ Independiente del ORM        │
-│  ✓ Testeable por capas          │
-│  ✓ Escalable horizontalmente    │
-└─────────────────────────────────┘
-```
-
+<pre><code>+-------------------------+
+|  ARQUITECTURA CLEAN     |
+|                         |
+|  Presentacion           |
+|       ^                 |
+|  Aplicacion             |
+|       ^                 |
+|  Dominio                |
+|       ^                 |
+|  Infraestructura/DB     |
+|                         |
+|  Independiente del ORM  |
+|  Testeable por capas    |
++-------------------------+</code></pre>
 </td>
 </tr>
 </table>
@@ -292,7 +264,7 @@ Estado:       🔄 Desarrollo activo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sebast219&show_icons=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&custom_title=Actividad+en+GitHub" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sebast219&show_icons=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&custom_title=Actividad+GitHub" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebast219&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222&langs_count=6&custom_title=Lenguajes+Más+Usados" height="160"/>
 
 <br>
@@ -375,6 +347,6 @@ Estado:       🔄 Desarrollo activo
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a1a,000000&height=110&section=footer&text=CONSTRUIDO+CON+PRECISI%C3%93N+%E2%80%94+MEDELL%C3%8DN%2C+COLOMBIA+%F0%9F%87%A8%F0%9F%87%B4&fontSize=14&fontColor=555555&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer&text=CONSTRUIDO+CON+PRECISI%C3%93N+%E2%80%94+MEDELL%C3%8DN%2C+COLOMBIA+%F0%9F%87%A8%F0%9F%87%B4&fontSize=14&fontColor=555555&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <!-- Sebastian Yepes Padilla · Full Stack Developer · github.com/sebast219 -->
