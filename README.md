@@ -1,3 +1,13 @@
+ Veo que quieres usar **Profile Readme Generator** para crear un README de nivel internacional con excelente UI/UX. Te proporcionaré el código optimizado listo para copiar y pegar en esa herramienta, organizado por secciones con las mejores prácticas de diseño startup (Apple, Google, Meta, Stripe).
+
+```markdown
+<!-- ============================================================ -->
+<!-- PROFILE README - STARTUP GRADE v3.0                          -->
+<!-- Author: Sebastian Yepes Padilla                              -->
+<!-- Location: Medellín, Colombia | GMT-5                         -->
+<!-- Status: Available for Remote | Relocation                    -->
+<!-- ============================================================ -->
+
 <!-- HERO SECTION - Animated Header -->
 <div align="center">
   
@@ -54,11 +64,16 @@ const sebastian = {
   languages: ["Español (Native)", "English (Professional B1)"],
   currentFocus: "Scalable enterprise applications"
 };
+```
+
 <!-- SPACER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- IMPACT METRICS - Dashboard Style -->
 <div align="center">
-📊 IMPACT METRICS
+  
+  ## 📊 **IMPACT METRICS**
+
   <table>
     <tr>
       <td align="center" width="200">
@@ -83,13 +98,18 @@ const sebastian = {
       </td>
     </tr>
   </table>
+
 </div>
+
 <!-- SPACER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- TECH STACK - Grid Layout -->
 <div align="center">
-🛠️ TECH STACK
-Frontend
+  
+  ## 🛠️ **TECH STACK**
+
+  ### **Frontend**
   <p>
     <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -98,7 +118,8 @@ Frontend
     <img src="https://img.shields.io/badge/Zustand-FF6B00?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   </p>
-Backend
+
+  ### **Backend**
   <p>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -107,7 +128,8 @@ Backend
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   </p>
-Database & DevOps
+
+  ### **Database & DevOps**
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
@@ -116,43 +138,60 @@ Database & DevOps
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
     <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   </p>
+
 </div>
+
 <!-- SPACER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- EXPERIENCE - Timeline Style -->
 <div align="center">
-💼 EXPERIENCE
+  
+  ## 💼 **EXPERIENCE**
+
 </div>
+
 <!-- Current Role -->
 <details open>
   <summary>
     <b>🚀 Full Stack Developer</b> @ <b>Quipux S.A.</b> 
     <code>Feb 2024 – Present | Medellín, Colombia</code>
   </summary>
-
-⚡ Optimized database performance by 75% (2s → 0.5s latency) through Oracle query tuning and strategic indexing
-👥 Architected applications serving 10,000+ daily active users with Java Spring Boot and Next.js
-🔐 Implemented secure JWT authentication with role-based access control (RBAC) for enterprise compliance
-🎨 Delivered responsive React/TypeScript interfaces integrated with microservices backend
-✅ Maintained 95% test coverage while shipping features in Agile/Scrum sprints
+  
+  <br>
+  
+  - ⚡ **Optimized database performance by 75%** (2s → 0.5s latency) through Oracle query tuning and strategic indexing
+  - 👥 **Architected applications serving 10,000+ daily active users** with Java Spring Boot and Next.js
+  - 🔐 **Implemented secure JWT authentication** with role-based access control (RBAC) for enterprise compliance
+  - 🎨 **Delivered responsive React/TypeScript interfaces** integrated with microservices backend
+  - ✅ **Maintained 95% test coverage** while shipping features in Agile/Scrum sprints
+  
 </details>
+
 <!-- Previous Role -->
 <details>
   <summary>
     <b>⭐ Junior Developer</b> @ <b>Quipux S.A. - Semillero</b> 
     <code>Jan 2023 – Jan 2024</code>
   </summary>
-
-🚀 Improved SQL query response times by 40% for Oracle and PostgreSQL databases
-🏗️ Developed Java backend modules applying OOP principles and SOLID architecture
-⚛️ Built Angular components for internal tools, reducing manual data entry by 30%
-🔧 Maintained Git/GitHub workflows with code reviews ensuring team quality standards
+  
+  <br>
+  
+  - 🚀 **Improved SQL query response times by 40%** for Oracle and PostgreSQL databases
+  - 🏗️ **Developed Java backend modules** applying OOP principles and SOLID architecture
+  - ⚛️ **Built Angular components** for internal tools, reducing manual data entry by 30%
+  - 🔧 **Maintained Git/GitHub workflows** with code reviews ensuring team quality standards
+  
 </details>
+
 <!-- SPACER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- FEATURED PROJECT - Card Style -->
 <div align="center">
-🛡️ FEATURED PROJECT
+  
+  ## 🛡️ **FEATURED PROJECT**
+
   <table>
     <tr>
       <td width="60%">
@@ -190,28 +229,40 @@ Database & DevOps
       </td>
     </tr>
   </table>
+
 </div>
+
 <!-- SPACER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- GITHUB STATS - Dashboard -->
 <div align="center">
-📈 GITHUB ANALYTICS
+  
+  ## 📈 **GITHUB ANALYTICS**
+
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebast219&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebast219&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
   </p>
+
   <p>
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebast219&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B00&currStreakLabel=00D4FF" alt="GitHub Streak" />
   </p>
+
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebast219&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B00" alt="Activity Graph" />
   </p>
+
 </div>
+
 <!-- SPACER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- EDUCATION -->
 <div align="center">
-🎓 EDUCATION
+  
+  ## 🎓 **EDUCATION**
+
   <table>
     <tr>
       <td align="center">
@@ -237,15 +288,21 @@ Database & DevOps
       </td>
     </tr>
   </table>
+
 </div>
+
 <!-- SPACER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- CONTACT - CTA Section -->
 <div align="center">
-📡 LET'S CONNECT
+  
+  ## 📡 **LET'S CONNECT**
+
   <p>
     <em>Open for remote opportunities, relocation, and challenging projects.</em>
   </p>
+
   <p>
     <a href="https://linkedin.com/in/sebastian-yepes-dev">
       <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -254,14 +311,22 @@ Database & DevOps
       <img src="https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
   <p>
     <img src="https://img.shields.io/badge/ESPAÑOL-NATIVE-00D4FF?style=flat-square" alt="Spanish" />
     <img src="https://img.shields.io/badge/ENGLISH-PROFESSIONAL_B1-00FF88?style=flat-square" alt="English" />
   </p>
+
 </div>
+
 <!-- FOOTER -->
 <div align="center">
-https://profile-counter.glitch.me/sebast219/count.svg
-<sub>
+
+  ![Visitor Count](https://profile-counter.glitch.me/sebast219/count.svg)
+
+  <sub>Built with precision from Medellín, Colombia 🇨🇴</sub>
+
 </div>
 ```
+
+---
