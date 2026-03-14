@@ -1,294 +1,192 @@
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+<!-- SPACE-X INSPIRED GITHUB PROFILE README -->
+<!-- Dark theme, minimalist, cinematic space aesthetic -->
 
-<!-- HERO SECTION -->
-<div align="center" style="background: rgba(255,255,255,0.95); border-radius: 18px; padding: 40px; margin: 10px;">
+<div align="center">
   
-  <!-- Animated Profile Image -->
-  <div style="position: relative; display: inline-block;">
-    <div style="width: 120px; height: 120px; background: linear-gradient(45deg, #667eea, #764ba2); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 48px; color: white; font-weight: bold; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);">
-      SY
-    </div>
-    <div style="position: absolute; top: -5px; right: -5px; width: 30px; height: 30px; background: #00ff88; border-radius: 50%; border: 3px solid white; animation: pulse 2s infinite;"></div>
-  </div>
-  
-  <!-- Name with Animation -->
-  <h1 style="font-size: 42px; font-weight: 800; margin: 20px 0 10px 0; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
-    Sebastian Yepes Padilla
-  </h1>
-  
-  <!-- Animated Typing Effect -->
-  <div style="font-size: 18px; color: #4a5568; margin: 10px 0; font-family: 'Courier New', monospace;">
-    <span id="typing-text"></span>
-    <span style="animation: blink 1s infinite;">|</span>
-  </div>
-  
-  <!-- Status Pills -->
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
-    <div style="background: linear-gradient(45deg, #00ff88, #00d4ff); color: white; padding: 8px 20px; border-radius: 25px; font-weight: 600; font-size: 14px; box-shadow: 0 4px 15px rgba(0, 255, 136, 0.3); transform: translateY(0); transition: all 0.3s;">
-      🚀 Available for Hire
-    </div>
-    <div style="background: linear-gradient(45deg, #ff6b6b, #feca57); color: white; padding: 8px 20px; border-radius: 25px; font-weight: 600; font-size: 14px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);">
-      📍 Medellín, Colombia
-    </div>
-    <div style="background: linear-gradient(45deg, #48dbfb, #0abde3); color: white; padding: 8px 20px; border-radius: 25px; font-weight: 600; font-size: 14px; box-shadow: 0 4px 15px rgba(72, 219, 251, 0.3);">
-      💼 2+ Years Experience
-    </div>
-  </div>
-  
-  <!-- Social Links with Hover Effects -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-    <a href="https://linkedin.com/in/sebastian-yepes-dev" style="text-decoration: none; transform: translateY(0); transition: all 0.3s;">
-      <div style="width: 50px; height: 50px; background: #0077b5; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-size: 20px; box-shadow: 0 5px 15px rgba(0, 119, 181, 0.3); transition: all 0.3s;">
-        in
-      </div>
-    </a>
-    <a href="https://ecommerce-hack-sage.vercel.app" style="text-decoration: none;">
-      <div style="width: 50px; height: 50px; background: #000; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-size: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: all 0.3s;">
-        🌐
-      </div>
-    </a>
-    <a href="mailto:sebayepa219@gmail.com" style="text-decoration: none;">
-      <div style="width: 50px; height: 50px; background: #ea4335; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-size: 20px; box-shadow: 0 5px 15px rgba(234, 67, 53, 0.3); transition: all 0.3s;">
-        ✉
-      </div>
-    </a>
-    <a href="https://github.com/sebast219" style="text-decoration: none;">
-      <div style="width: 50px; height: 50px; background: #333; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-size: 20px; box-shadow: 0 5px 15px rgba(51, 51, 51, 0.3); transition: all 0.3s;">
-        🐙
-      </div>
-    </a>
-  </div>
-</div>
+  <!-- Animated Header with Space Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=ENGINEER%20DEVELOPER%20EXPLORER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BUILDING%20THE%20FUTURE%20OF%20CODE&descSize=20&descAlignY=60" width="100%"/>
 
 </div>
 
-<!-- SKILLS SECTION WITH CARDS -->
-<div style="max-width: 1200px; margin: 60px auto; padding: 0 20px;">
+<br>
+
+<!-- Mission Control Stats -->
+<div align="center">
   
-  <h2 style="font-size: 32px; font-weight: 700; text-align: center; margin-bottom: 40px; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    🛠️ Technical Arsenal
-  </h2>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px;">
-    
-    <!-- Frontend Card -->
-    <div style="background: white; border-radius: 20px; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); transform: translateY(0); transition: all 0.3s; border: 2px solid transparent;">
-      <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <div style="width: 40px; height: 40px; background: linear-gradient(45deg, #61dafb, #2af598); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-size: 18px; margin-right: 15px;">
-          ⚛️
-        </div>
-        <h3 style="margin: 0; color: #2c3e50; font-size: 20px; font-weight: 600;">Frontend Engineering</h3>
-      </div>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #f1f3f4; color: #61dafb; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">React 18</span>
-        <span style="background: #f1f3f4; color: #2af598; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">TypeScript</span>
-        <span style="background: #f1f3f4; color: #61dafb; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">Next.js 14</span>
-        <span style="background: #f1f3f4; color: #ff6b6b; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">TailwindCSS</span>
-      </div>
-    </div>
-    
-    <!-- Backend Card -->
-    <div style="background: white; border-radius: 20px; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); transform: translateY(0); transition: all 0.3s; border: 2px solid transparent;">
-      <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <div style="width: 40px; height: 40px; background: linear-gradient(45deg, #ff6b6b, #feca57); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-size: 18px; margin-right: 15px;">
-          ⚙️
-        </div>
-        <h3 style="margin: 0; color: #2c3e50; font-size: 20px; font-weight: 600;">Backend Development</h3>
-      </div>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #f1f3f4; color: #ff6b6b; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">NestJS</span>
-        <span style="background: #f1f3f4; color: #feca57; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">Node.js</span>
-        <span style="background: #f1f3f4; color: #ff6b6b; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">Java Spring</span>
-        <span style="background: #f1f3f4; color: #e74c3c; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">PostgreSQL</span>
-      </div>
-    </div>
-    
-    <!-- Tools Card -->
-    <div style="background: white; border-radius: 20px; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); transform: translateY(0); transition: all 0.3s; border: 2px solid transparent;">
-      <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <div style="width: 40px; height: 40px; background: linear-gradient(45deg, #e74c3c, #c0392b); border-radius: 12px; display: flex; align-items: center; justify-content: center; color: white; font-size: 18px; margin-right: 15px;">
-          🛠️
-        </div>
-        <h3 style="margin: 0; color: #2c3e50; font-size: 20px; font-weight: 600;">DevOps & Tools</h3>
-      </div>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #f1f3f4; color: #e74c3c; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">Docker</span>
-        <span style="background: #f1f3f4; color: #feca57; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">AWS</span>
-        <span style="background: #f1f3f4; color: #2af598; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">Git</span>
-        <span style="background: #f1f3f4; color: #61dafb; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500;">VS Code</span>
-      </div>
-    </div>
-    
-  </div>
+  ![Profile Views](https://komarev.com/ghpvc/?username=sebast219&color=000000&style=flat-square&label=MISSION+TRACKING)
+  [![GitHub Followers](https://img.shields.io/github/followers/sebast219?color=000000&label=FOLLOWERS&style=flat-square&logo=github&logoColor=white)](https://github.com/sebast219?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/sebast219?color=000000&label=STARS&style=flat-square&logo=github&logoColor=white)](https://github.com/sebast219?tab=repositories)
+
 </div>
 
-<!-- ACHIEVEMENTS SECTION -->
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 2px; border-radius: 20px; margin: 60px 20px; box-shadow: 0 10px 30px rgba(240, 147, 251, 0.3);">
+<br>
 
-  <div style="background: white; border-radius: 18px; padding: 40px;">
-    
-    <h2 style="font-size: 32px; font-weight: 700; text-align: center; margin-bottom: 30px; background: linear-gradient(45deg, #f093fb, #f5576c); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-      🏆 Mission Achievements
-    </h2>
-    
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-      
-      <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea15, #764ba215); border-radius: 15px; color: white;">
-        <div style="font-size: 36px; margin-bottom: 10px;">🚀</div>
-        <div style="font-size: 18px; font-weight: 600;">75% Faster</div>
-        <div style="font-size: 14px; opacity: 0.9;">Database Optimization</div>
-      </div>
-      
-      <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #00ff8815, #00d4ff15); border-radius: 15px; color: white;">
-        <div style="font-size: 36px; margin-bottom: 10px;">👥</div>
-        <div style="font-size: 18px; font-weight: 600;">10K+ Users</div>
-        <div style="font-size: 14px; opacity: 0.9;">Daily Active</div>
-      </div>
-      
-      <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #ff6b6b15, #feca5715); border-radius: 15px; color: white;">
-        <div style="font-size: 36px; margin-bottom: 10px;">🔒</div>
-        <div style="font-size: 18px; font-weight: 600;">95% Coverage</div>
-        <div style="font-size: 14px; opacity: 0.9;">Test Quality</div>
-      </div>
-      
-      <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #e74c3c15, #c0392b15); border-radius: 15px; color: white;">
-        <div style="font-size: 36px; margin-bottom: 10px;">🏆</div>
-        <div style="font-size: 18px; font-weight: 600;">2+ Years</div>
-        <div style="font-size: 14px; opacity: 0.9;">Production Experience</div>
-      </div>
-      
-    </div>
-  </div>
+<!-- Main Content Grid -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🚀 ACTIVE MISSIONS
+
+```diff
++ FALCON-9 ............... Production Ready
++ STARSHIP ............... In Development  
++ DRAGON ................. Maintenance Mode
++ HYPERLOOP .............. Experimental
+```
+
+**Current Launch:** `v2.0.0-alpha`  
+**Next Window:** `T-MINUS 14 DAYS` 
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📡 TELEMETRY
+
+```yaml
+Primary Stack:
+  Frontend: React | Next.js | TypeScript
+  Backend: Node.js | Python | Go
+  DevOps:   Docker | Kubernetes | AWS
+  Database: PostgreSQL | MongoDB | Redis
+
+Location:   Earth, Sol System
+Status:     Online
+Uptime:     99.9%
+```
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Featured Projects - SpaceX Style Cards -->
+<div align="center">
+
+## 🛰️ ORBITAL VEHICLES
+
 </div>
 
-<!-- PROJECT SHOWCASE -->
-<div style="max-width: 1200px; margin: 60px auto; padding: 0 20px;">
-  
-  <h2 style="font-size: 32px; font-weight: 700; text-align: center; margin-bottom: 40px; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    🚀 Featured Launch
-  </h2>
-  
-  <div style="background: white; border-radius: 20px; padding: 30px; box-shadow: 0 15px 35px rgba(0,0,0,0.15); position: relative; overflow: hidden;">
-    
-    <!-- Project Header -->
-    <div style="display: flex; align-items: center; margin-bottom: 25px;">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="30" style="margin-right: 10px;">
-      <img src="https://skillicons.dev/icons?i=nestjs" height="30" style="margin-right: 10px;">
-      <img src="https://skillicons.dev/icons?i=postgres" height="30" style="margin-right: 10px;">
-      <img src="https://skillicons.dev/icons?i=stripe" height="30">
-    </div>
-    
-    <h3 style="color: #2c3e50; font-size: 24px; margin-bottom: 15px;">🛒 Ecommerce Hack 6</h3>
-    <p style="color: #718096; font-size: 16px; line-height: 1.6; margin-bottom: 25px;">
-      Cybersecurity Tools Marketplace with Clean Architecture, JWT authentication, multi-role system, and Stripe payments. Built for scale and security.
-    </p>
-    
-    <!-- Action Buttons -->
-    <div style="display: flex; gap: 15px; justify-content: center;">
-      <a href="https://github.com/sebast219/ecommerce-hack" style="text-decoration: none;">
-        <div style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 12px 24px; border-radius: 25px; font-weight: 600; box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3); transition: all 0.3s;">
-          🔍 View Code
-        </div>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/sebast219/ecommerce-hack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebast219&repo=ecommerce-hack&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="100%" />
       </a>
-      <a href="https://ecommerce-hack-sage.vercel.app" style="text-decoration: none;">
-        <div style="background: linear-gradient(45deg, #00ff88, #00d4ff); color: white; padding: 12px 24px; border-radius: 25px; font-weight: 600; box-shadow: 0 5px 15px rgba(0, 255, 136, 0.3); transition: all 0.3s;">
-          🚀 Live Demo
-        </div>
+      <br>
+      <sub><b>FALCON HEAVY</b></sub>
+      <br>
+      <sub>High-performance computing platform</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/sebast219">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebast219&repo=sebast219&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="100%" />
       </a>
-    </div>
-    
-  </div>
+      <br>
+      <sub><b>STARSHIP</b></sub>
+      <br>
+      <sub>Next-gen full-stack framework</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/sebast219">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebast219&repo=portfolio&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="100%" />
+      </a>
+      <br>
+      <sub><b>DRAGON</b></sub>
+      <br>
+      <sub>Data transport & ETL pipeline</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- GitHub Stats Dashboard -->
+<div align="center">
+
+## 📊 MISSION CONTROL DASHBOARD
+
+<img src="https://github-readme-stats.vercel.app/api?username=sebast219&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&include_all_commits=true&count_private=true&hide_border=false" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sebast219&theme=dark&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=cccccc&sideLabels=cccccc&dates=666666&hide_border=false" height="180" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebast219&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333&hide_border=false&langs_count=8" height="180" />
+
 </div>
 
-<!-- CONTACT SECTION -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 20px; margin: 60px 20px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);">
+---
 
-  <div style="background: white; border-radius: 18px; padding: 40px; text-align: center;">
-    
-    <h2 style="font-size: 32px; font-weight: 700; margin-bottom: 30px; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-      📡 Connect Mission Control
-    </h2>
-    
-    <p style="color: #4a5568; font-size: 18px; margin-bottom: 30px;">
-      Ready for remote opportunities and exciting collaborations
-    </p>
-    
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <a href="https://linkedin.com/in/sebastian-yepes-dev" style="text-decoration: none;">
-        <div style="background: #0077b5; color: white; padding: 15px 30px; border-radius: 30px; font-weight: 600; box-shadow: 0 8px 25px rgba(0, 119, 181, 0.3); transition: all 0.3s;">
-          LinkedIn
-        </div>
-      </a>
-      <a href="mailto:sebayepa219@gmail.com" style="text-decoration: none;">
-        <div style="background: #ea4335; color: white; padding: 15px 30px; border-radius: 30px; font-weight: 600; box-shadow: 0 8px 25px rgba(234, 67, 53, 0.3); transition: all 0.3s;">
-          Email
-        </div>
-      </a>
-    </div>
-    
-    <div style="margin-top: 30px; padding: 20px; background: linear-gradient(45deg, #667eea15, #764ba215); border-radius: 15px; color: white;">
-      <div style="font-size: 16px; font-weight: 600;">🇨🇴 Built with passion in Medellín, Colombia</div>
-    </div>
-    
-  </div>
+<!-- Tech Stack Orbit Animation -->
+<div align="center">
+
+## ⚡ PROPULSION SYSTEMS
+
 </div>
 
-<!-- ANIMATIONS -->
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.1); opacity: 0.8; }
-  100% { transform: scale(1); opacity: 1; }
-}
+<div align="center">
 
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
+<!-- Languages -->
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-/* Hover Effects */
-div[style*="transition: all 0.3s"]:hover {
-  transform: translateY(-5px) !important;
-}
+<br>
 
-/* Card Hover Effects */
-div[style*="border: 2px solid transparent"]:hover {
-  border-color: #667eea !important;
-}
-</style>
+<!-- Frameworks -->
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<script>
-// Typing animation
-const texts = ["Full Stack Engineer", "Database Optimizer", "Clean Architecture Expert", "Building Scalable Solutions"];
-let textIndex = 0;
-let charIndex = 0;
-let currentText = '';
-let isDeleting = false;
+</div>
 
-function typeText() {
-  const element = document.getElementById('typing-text');
-  if (!element) return;
-  
-  if (!isDeleting && charIndex < texts[textIndex].length) {
-    currentText += texts[textIndex].charAt(charIndex);
-    charIndex++;
-  } else if (isDeleting && charIndex > 0) {
-    currentText = currentText.substring(0, charIndex - 1);
-    charIndex--;
-  } else {
-    isDeleting = !isDeleting;
-    if (!isDeleting) {
-      textIndex = (textIndex + 1) % texts.length;
-      charIndex = 0;
-    } else {
-      charIndex = currentText.length;
-    }
-  }
-  
-  element.textContent = currentText;
-  setTimeout(typeText, isDeleting ? 50 : 100);
-}
+---
 
-// Start typing animation
-typeText();
-</script>
+<!-- Launch Manifest -->
+<div align="center">
+
+## 🗓️ LAUNCH MANIFEST
+
+| Mission | Vehicle | Status | Date |
+|---------|---------|--------|------|
+| Project Alpha | Falcon 9 | ✅ Success | 2026-03-01 |
+| Project Beta | Starship | 🔄 In Progress | 2026-03-20 |
+| Project Gamma | Dragon | ⏳ Scheduled | 2026-04-15 |
+| Project Delta | Heavy | 📋 Planned | 2026-05-01 |
+
+</div>
+
+---
+
+<!-- Contact Section -->
+<div align="center">
+
+## 📡 GROUND CONTROL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-yepes-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sebast219)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebayepa219@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ecommerce-hack-sage.vercel.app)
+
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=MADE%20ON%20EARTH%20BY%20HUMANS&fontSize=20&fontColor=666666&animation=fadeIn&fontAlignY=50" width="100%"/>
+
+</div>
+
+<!--
+🚀 INSPIRED BY SPACEX.COM
+🎨 DESIGN: Minimalist | Dark | Futuristic
+🛠️ BUILT WITH: GitHub Markdown + Badges + Stats APIs
+🎯 THEME: Mission Control | Space Exploration
+-->
