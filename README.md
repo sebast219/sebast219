@@ -1,255 +1,267 @@
-<!-- STARLINK TERMINAL v2.4.1 -->
-<!-- OPERATOR: SEBASTIAN YEPES PADILLA -->
-<!-- STATUS: OPERATIONAL -->
-
+<!-- HERO SECTION - Animated Header -->
 <div align="center">
+  
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter:wght@600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Database+Optimizer;Clean+Architecture+Specialist;10K%2B+Users+Daily" alt="Typing SVG" />
+  </a>
 
-![Starlink](https://img.shields.io/badge/STARLINK-TERMINAL-00D4FF?style=for-the-badge&logoColor=white&labelColor=0a0a0f)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0a0a0f)
-![Location](https://img.shields.io/badge/LOCATION-6.2442°N_75.5812°W-FF6B00?style=for-the-badge&labelColor=0a0a0f)
+  <!-- Status Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00FF88?style=for-the-badge&labelColor=0D1117&color=00FF88" alt="Status" />
+    <img src="https://img.shields.io/badge/LOCATION-Medellín,_CO-FF6B00?style=for-the-badge&labelColor=0D1117" alt="Location" />
+    <img src="https://img.shields.io/badge/TIMEZONE-GMT--5-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Timezone" />
+  </p>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://linkedin.com/in/sebastian-yepes-dev">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+    </a>
+    <a href="https://ecommerce-hack-sage.vercel.app">
+      <img src="https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+    </a>
+    <a href="mailto:sebayepa219@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+    </a>
+    <a href="https://github.com/sebast219">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
-<br>
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ABOUT SECTION - Code Block Style -->
 <div align="center">
+  
+  ## 🚀 **ABOUT ME**
 
-```diff
-+ ESTABLISHING UPLINK.............. CONNECTED ✓
-+ LATENCY OPTIMIZED................. 2s → 0.5s (-75%)
-+ THROUGHPUT........................ 10,000+ USERS/DAY
-+ ARCHITECTURE...................... CLEAN ARCH v2.0
-+ OPERATOR STATUS.................. AVAILABLE FOR MISSIONS 🟢
+</div>
+
+```typescript
+const sebastian = {
+  role: "Full Stack Developer",
+  location: "Medellín, Colombia 🇨🇴",
+  company: "Quipux S.A.",
+  experience: "2+ years production",
+  users: "10,000+ daily active",
+  achievement: "75% DB latency reduction (2s → 0.5s)",
+  architecture: ["Clean Architecture", "Domain-Driven Design"],
+  availability: ["Remote", "Relocation", "Full-time"],
+  languages: ["Español (Native)", "English (Professional B1)"],
+  currentFocus: "Scalable enterprise applications"
+};
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- IMPACT METRICS - Dashboard Style -->
+<div align="center">
+📊 IMPACT METRICS
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/75%25-LATENCY_REDUCTION-00FF88?style=flat-square&labelColor=0D1117" alt="Latency" />
+        <br>
+        <sub>Database Optimization</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/10K+-DAILY_USERS-00D4FF?style=flat-square&labelColor=0D1117" alt="Users" />
+        <br>
+        <sub>Active Users Served</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/95%25-TEST_COVERAGE-FF6B00?style=flat-square&labelColor=0D1117" alt="Coverage" />
+        <br>
+        <sub>Production Quality</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/40%25-PERFORMANCE_GAIN-9B59B6?style=flat-square&labelColor=0D1117" alt="Performance" />
+        <br>
+        <sub>SQL Query Optimization</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- TECH STACK - Grid Layout -->
+<div align="center">
+🛠️ TECH STACK
+Frontend
+  <p>
+    <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Zustand-FF6B00?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </p>
+Backend
+  <p>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  </p>
+Database & DevOps
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  </p>
+</div>
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- EXPERIENCE - Timeline Style -->
+<div align="center">
+💼 EXPERIENCE
+</div>
+<!-- Current Role -->
+<details open>
+  <summary>
+    <b>🚀 Full Stack Developer</b> @ <b>Quipux S.A.</b> 
+    <code>Feb 2024 – Present | Medellín, Colombia</code>
+  </summary>
+
+⚡ Optimized database performance by 75% (2s → 0.5s latency) through Oracle query tuning and strategic indexing
+👥 Architected applications serving 10,000+ daily active users with Java Spring Boot and Next.js
+🔐 Implemented secure JWT authentication with role-based access control (RBAC) for enterprise compliance
+🎨 Delivered responsive React/TypeScript interfaces integrated with microservices backend
+✅ Maintained 95% test coverage while shipping features in Agile/Scrum sprints
+</details>
+<!-- Previous Role -->
+<details>
+  <summary>
+    <b>⭐ Junior Developer</b> @ <b>Quipux S.A. - Semillero</b> 
+    <code>Jan 2023 – Jan 2024</code>
+  </summary>
+
+🚀 Improved SQL query response times by 40% for Oracle and PostgreSQL databases
+🏗️ Developed Java backend modules applying OOP principles and SOLID architecture
+⚛️ Built Angular components for internal tools, reducing manual data entry by 30%
+🔧 Maintained Git/GitHub workflows with code reviews ensuring team quality standards
+</details>
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- FEATURED PROJECT - Card Style -->
+<div align="center">
+🛡️ FEATURED PROJECT
+  <table>
+    <tr>
+      <td width="60%">
+        <h3>Ecommerce Hack 6</h3>
+        <p>
+          <em>Cybersecurity tools marketplace built with Clean Architecture</em>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs" alt="Next.js" />
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs" alt="NestJS" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe" alt="Stripe" />
+        </p>
+        <ul>
+          <li>🔐 JWT Auth + Refresh Tokens</li>
+          <li>👥 Multi-role system (Admin/Vendor/User)</li>
+          <li>💳 Stripe Payment Integration</li>
+          <li>🧪 Clean Architecture + DDD</li>
+        </ul>
+        <p>
+          <a href="https://github.com/sebast219/ecommerce-hack">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+          <a href="https://ecommerce-hack-sage.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
+          </a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00FF88?style=for-the-badge" alt="Status" />
+        <br><br>
+        <img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN-E0234E?style=for-the-badge" alt="Architecture" />
+        <br><br>
+        <img src="https://img.shields.io/badge/DEPLOYED-VERCEL-000000?style=for-the-badge" alt="Deployed" />
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- GITHUB STATS - Dashboard -->
+<div align="center">
+📈 GITHUB ANALYTICS
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebast219&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebast219&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </p>
+  <p>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebast219&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B00&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebast219&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B00" alt="Activity Graph" />
+  </p>
+</div>
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- EDUCATION -->
+<div align="center">
+🎓 EDUCATION
+  <table>
+    <tr>
+      <td align="center">
+        <b>Tecnología en Sistemas</b><br>
+        <sub>IUSH</sub><br>
+        <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FF6B00?style=flat-square" alt="In Progress" />
+        <br><sub>Expected 2026</sub>
+      </td>
+      <td align="center">
+        <b>Full Stack Node.js · React</b><br>
+        <sub>Udemy</sub><br>
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF88?style=flat-square" alt="Completed" />
+      </td>
+      <td align="center">
+        <b>Java 21 & Spring Boot</b><br>
+        <sub>Udemy</sub><br>
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF88?style=flat-square" alt="Completed" />
+      </td>
+      <td align="center">
+        <b>SQL con PostgreSQL</b><br>
+        <sub>DevTalles</sub><br>
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF88?style=flat-square" alt="Completed" />
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- SPACER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- CONTACT - CTA Section -->
+<div align="center">
+📡 LET'S CONNECT
+  <p>
+    <em>Open for remote opportunities, relocation, and challenging projects.</em>
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/sebastian-yepes-dev">
+      <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sebayepa219@gmail.com">
+      <img src="https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/ESPAÑOL-NATIVE-00D4FF?style=flat-square" alt="Spanish" />
+    <img src="https://img.shields.io/badge/ENGLISH-PROFESSIONAL_B1-00FF88?style=flat-square" alt="English" />
+  </p>
+</div>
+<!-- FOOTER -->
+<div align="center">
+https://profile-counter.glitch.me/sebast219/count.svg
+<sub>
+</div>
 ```
-
-</div>
-
-<br>
-
-<div align="center">
-
-# `< SEBASTIAN YEPES PADILLA />`
-
-### **FULL STACK DEVELOPER** · **MEDELLÍN, CO** · **GMT-5**
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/sebastianyepes-dev)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://ecommerce-hack-sage.vercel.app)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:sebayepa219@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/sebast219)
-
-![Visitors](https://komarev.com/ghpvc/?username=sebast219&color=00D4FF&style=for-the-badge&label=UPLINK+COUNT)
-
-</div>
-
----
-
-## 🛰️ SYSTEM OVERVIEW
-
-```yaml
-# ── OPERATOR PROFILE ─────────────────────────────────────────────
-OPERATOR:     Sebastian Yepes Padilla
-COORDINATES:  6.2442° N, 75.5812° W  # Medellín, Colombia 🇨🇴
-TIMEZONE:     GMT-5
-UPTIME:       2+ years production experience
-LANGUAGES:    ["Español 🇨🇴 (Nativo)", "English 🇺🇸 (B1)"]
-DEPLOY_MODE:  Remote | Relocation | Full-time
-STATUS:       🟢 AVAILABLE FOR MISSIONS
-# ─────────────────────────────────────────────────────────────────
-```
-
----
-
-## 📡 TELEMETRY
-
-<div align="center">
-
-| METRIC | RECORDED VALUE | STATUS |
-|:-------|:--------------|:-------|
-| **Database Latency Reduction** | `75%` (Oracle · 2s → 0.5s) | 🟢 OPTIMAL |
-| **Daily Active Users Served** | `10,000+` | 🟢 STABLE |
-| **Scrum Test Coverage** | `95%` | 🟢 EXCELLENT |
-| **SQL Response Improvement** | `+40%` | 🟢 ENHANCED |
-| **Production Incidents** | `0` | 🟢 OPERATIONAL |
-
-</div>
-
----
-
-## 🚀 PROPULSION SYSTEMS
-
-<div align="center">
-
-### ── FRONTEND ARRAY ──
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=00D4FF)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-FF6B00?style=flat-square&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-### ── BACKEND CORE ──
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=00D4FF)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6B00?style=flat-square&logoColor=white)
-
-### ── DATA STORAGE ──
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=00D4FF)
-
-### ── GROUND CONTROL ──
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-</div>
-
----
-
-## 🛸 MISSION LOG
-
-### ◈ CURRENT MISSION
-**`FULL STACK DEVELOPER`** · **Quipux S.A.** · `Feb 2024 – PRESENT` · Medellín, Colombia
-
-```diff
-+ Deployed enterprise web applications serving 10,000+ daily active users in production
-+ Achieved 75% DB latency reduction (2s → 0.5s) via Oracle query optimization & indexing
-+ Implemented secure JWT authentication with role-based access control (RBAC)
-+ Delivered sprint features on time with 95% test coverage in Scrum teams (QA, UX, Product)
-+ Built responsive React/TypeScript frontends integrated with Java Spring Boot microservices
-```
-
-**References · Verified Contacts:**
-```yaml
-Greison Pemberty Vélez:         Líder de Proyecto  · Quipux S.A.  # +57 311 766 4209
-Jhon Sebastián Agudelo Sierra:  Arquitecto Software · Quipux S.A.  # +57 311 326 4747
-```
-
----
-
-### ◈ PREVIOUS MISSION
-**`JUNIOR DEVELOPER / SEMILLERO`** · **Quipux S.A.** · `Ene 2023 – Ene 2024`
-
-```diff
-+ Developed Java backend modules applying OOP, SOLID principles & clean code practices
-+ Optimized SQL queries for Oracle/PostgreSQL — response times improved by 40%
-+ Built Angular frontend components for internal tools — reduced manual data entry by 30%
-+ Maintained Git/GitHub version control and participated in team code reviews
-```
-
----
-
-## 🌌 FEATURED PROJECT
-
-<div align="center">
-
-### 🛡️ ECOMMERCE HAK 6
-**Cybersecurity Tools Marketplace**
-
-[![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0a0a0f)](https://github.com/sebast219)
-[![Deployed](https://img.shields.io/badge/DEPLOYED-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00D4FF&labelColor=0a0a0f)](https://ecommerce-hack-sage.vercel.app)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEV-FF6B00?style=for-the-badge&labelColor=0a0a0f)](https://github.com/sebast219)
-
-</div>
-
-```
-┌─────────────────────────────── ARCHITECTURE MAP ──────────────────────────────┐
-│                                                                                │
-│   Frontend  ──→  Next.js 14 + TypeScript + Tailwind CSS + Zustand            │
-│   Backend   ──→  NestJS + Clean Architecture (Domain / App / Infra / Pres)   │
-│   Auth      ──→  JWT + Refresh Tokens + Roles (Admin / Vendor / User)        │
-│   Database  ──→  PostgreSQL + Prisma ORM                                      │
-│   Payments  ──→  Stripe Integration (test mode)                               │
-│   Deploy    ──→  Vercel (Frontend) + Railway (Backend)                        │
-│   Niche     ──→  Pentesting · Forensics · Network Security Tools              │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebast219)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00D4FF?style=for-the-badge&logo=vercel&logoColor=0a0a0f)](https://ecommerce-hack-sage.vercel.app)
-
-</div>
-
----
-
-## 📊 SYSTEM ANALYTICS
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sebast219&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00D4FF&icon_color=FF6B00&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebast219&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00D4FF&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebast219&theme=dark&hide_border=true&background=0a0a0f&stroke=00D4FF&ring=00D4FF&fire=FF6B00&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎓 TRAINING MODULES
-
-<div align="center">
-
-| PROGRAM | INSTITUTION | STATUS |
-|:--------|:------------|:------:|
-| **Tecnología en Sistemas** | IUSH | `🔄 IN PROGRESS · 2026` |
-| **Full Stack Node.js · React · TypeScript · NestJS · Next.js** | Udemy | `🔄 IN PROGRESS` |
-| **Java 21 Fundamentals** | Udemy | `🔄 IN PROGRESS` |
-| **SQL con PostgreSQL — Guía Práctica** | DevTalles | `🔄 IN PROGRESS` |
-| **React y TypeScript — +10 Proyectos** | Udemy | `🔄 IN PROGRESS` |
-| **Técnico en Desarrollo de Software** | SENA | `✅ COMPLETED · 2024` |
-
-</div>
-
----
-
-## 🌍 COMMUNICATION PROTOCOLS
-
-<div align="center">
-
-```diff
-! UPLINK CHANNELS CONFIGURED
-+ PRIMARY   → sebayepa219@gmail.com       [ACTIVE]
-+ SECONDARY → linkedin.com/in/sebastianyepes-dev  [ACTIVE]
-+ TERTIARY  → wa.me/573005865312          [ACTIVE]
-
-! LANGUAGES
-+ Español  (Nativo)        → ACTIVE
-+ English  (B1 Profesional) → ACTIVE
-```
-
-[![Gmail](https://img.shields.io/badge/sebayepa219@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:sebayepa219@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/sebastianyepes-dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0f)](https://wa.me/573005865312)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/sebast219/count.svg)
-
-```diff
-+ TRANSMISSION TERMINATED
-+ OPERATOR: SEBASTIAN YEPES PADILLA
-+ BUILD: MEDELLÍN, COLOMBIA 🇨🇴
-+ STARLINK TERMINAL v2.4.1 · ALL SYSTEMS NOMINAL
-```
-
-</div>
