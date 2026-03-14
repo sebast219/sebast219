@@ -53,7 +53,7 @@
 
 <!-- ECOMMERCE THEMED SPACER -->
 <div align="center">
-  <img src="https://github.com/sebast219/ecommerce-hack/blob/main/.github/ecommerce-spacer.gif?raw=true" width="100%" alt="Ecommerce Spacer">
+  <img src="github/ecommerce-spacer.gif" width="100%" alt="Ecommerce Spacer">
 </div>
 
 <!-- DEVELOPER PROFILE WITH ECOMMERCE CONTEXT -->
@@ -86,7 +86,7 @@ const ecommerceDeveloper = {
 
 <!-- ECOMMERCE THEMED SPACER -->
 <div align="center">
-  <img src="https://github.com/sebast219/ecommerce-hack/blob/main/.github/ecommerce-spacer.gif?raw=true" width="100%" alt="Ecommerce Spacer">
+  <img src="github/ecommerce-spacer.gif" width="100%" alt="Ecommerce Spacer">
 </div>
 
 <!-- ECOMMERCE IMPACT METRICS -->
@@ -167,7 +167,7 @@ const ecommerceDeveloper = {
 
 <!-- ECOMMERCE THEMED SPACER -->
 <div align="center">
-  <img src="https://github.com/sebast219/ecommerce-hack/blob/main/.github/ecommerce-spacer.gif?raw=true" width="100%" alt="Ecommerce Spacer">
+  <img src="github/ecommerce-spacer.gif" width="100%" alt="Ecommerce Spacer">
 </div>
 
 <!-- PROFESSIONAL EXPERIENCE -->
@@ -212,7 +212,7 @@ const ecommerceDeveloper = {
 
 <!-- ECOMMERCE THEMED SPACER -->
 <div align="center">
-  <img src="https://github.com/sebast219/ecommerce-hack/blob/main/.github/ecommerce-spacer.gif?raw=true" width="100%" alt="Ecommerce Spacer">
+  <img src="github/ecommerce-spacer.gif" width="100%" alt="Ecommerce Spacer">
 </div>
 
 <!-- FEATURED ECOMMERCE PROJECT -->
@@ -263,7 +263,7 @@ const ecommerceDeveloper = {
 
 <!-- ECOMMERCE THEMED SPACER -->
 <div align="center">
-  <img src="https://github.com/sebast219/ecommerce-hack/blob/main/.github/ecommerce-spacer.gif?raw=true" width="100%" alt="Ecommerce Spacer">
+  <img src="github/ecommerce-spacer.gif" width="100%" alt="Ecommerce Spacer">
 </div>
 
 <!-- GITHUB STATS WITH ECOMMERCE COLORS -->
@@ -294,7 +294,7 @@ const ecommerceDeveloper = {
 
 <!-- ECOMMERCE THEMED SPACER -->
 <div align="center">
-  <img src="https://github.com/sebast219/ecommerce-hack/blob/main/.github/ecommerce-spacer.gif?raw=true" width="100%" alt="Ecommerce Spacer">
+  <img src="github/ecommerce-spacer.gif" width="100%" alt="Ecommerce Spacer">
 </div>
 
 <!-- EDUCATION & CERTIFICATIONS -->
@@ -332,7 +332,7 @@ const ecommerceDeveloper = {
 
 <!-- ECOMMERCE THEMED SPACER -->
 <div align="center">
-  <img src="https://github.com/sebast219/ecommerce-hack/blob/main/.github/ecommerce-spacer.gif?raw=true" width="100%" alt="Ecommerce Spacer">
+  <img src="github/ecommerce-spacer.gif" width="100%" alt="Ecommerce Spacer">
 </div>
 
 <!-- CONTACT SECTION -->
