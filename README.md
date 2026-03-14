@@ -3,7 +3,7 @@
 <!--  Diseño: Terminal Noir · Español · Alto Impacto Visual         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=SEBASTIAN%20YEPES&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&fontAlign=50&desc=%3C%20DESARROLLADOR%20FULL%20STACK%20%2F%3E%20%7C%20MEDELLIN%2C%20COLOMBIA&descSize=17&descAlignY=58&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=SEBASTIAN%20YEPES&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&fontAlign=50&desc=FULL+STACK+DEVELOPER+%7C+MEDELLIN%2C+COLOMBIA&descSize=17&descAlignY=58&descColor=888888" width="100%"/>
 
 <div align="center">
 
