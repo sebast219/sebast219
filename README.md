@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black&color=ffffff)](www.linkedin.com/in/sebastian-yepes-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black&color=ffffff)](https:/linkedin.com/in/sebastian-yepes-dev)
 [![Portafolio](https://img.shields.io/badge/Portafolio-%23ffffff.svg?style=for-the-badge&logo=vercel&logoColor=black&color=ffffff)](https://ecommerce-hack-sage.vercel.app)
 [![Email](https://img.shields.io/badge/Email-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=black&color=ffffff)](mailto:sebayepa219@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23ffffff.svg?style=for-the-badge&logo=whatsapp&logoColor=black&color=ffffff)](https://wa.me/573005865312)
