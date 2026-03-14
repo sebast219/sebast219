@@ -3,8 +3,8 @@
 <!--  Diseño: Terminal Noir · Español · Alto Impacto Visual         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,141414,1a1a1a&height=320&section=header&text=SEBASTIAN%20YEPES&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&fontAlign=50&desc=%3C%20DESARROLLADOR%20FULL%20STACK%20%2F%3E%20%E2%80%94%20MEDELL%C3%8DN%2C%20COLOMBIA&descSize=17&descAlignY=58&descColor=888888&stroke=ffffff&strokeWidth=0" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=SEBASTIAN%20YEPES&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&fontAlign=50&desc=%3C%20DESARROLLADOR%20FULL%20STACK%20%2F%3E%20%7C%20MEDELLIN%2C%20COLOMBIA&descSize=17&descAlignY=58&descColor=888888" width="100%"/>
+ 
 <div align="center">
 
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=%3E+INICIALIZANDO+CONEXI%C3%93N...+%E2%9C%94+CONECTADO;%3E+10.000%2B+USUARIOS+ACTIVOS+EN+PRODUCCI%C3%93N;%3E+LATENCIA+DB+REDUCIDA+75%25+%E2%86%92+2s+A+0.5s;%3E+ARQUITECTURA+LIMPIA+%7C+NESTJS+%7C+NEXT.JS+14;%3E+DISPONIBLE+PARA+TRABAJO+REMOTO+%F0%9F%9F%A2)](https://git.io/typing-svg)
@@ -25,7 +25,7 @@
 
 ![Disponible](https://img.shields.io/badge/◉_DISPONIBLE_PARA_CONTRATAR-1a1a1a?style=flat-square&logoColor=white)
 ![Remoto](https://img.shields.io/badge/✈_REMOTO_·_REUBICACIÓN-1a1a1a?style=flat-square)
-![ 👁 Visitas](https://komarev.com/ghpvc/?username=sebast219&color=1a1a1a&style=flat-square&label=VISITAS+AL+PERFIL)
+![Visitas](https://komarev.com/ghpvc/?username=sebast219&color=1a1a1a&style=flat-square&label=👁+VISITAS+AL+PERFIL)
 
 </div>
 
