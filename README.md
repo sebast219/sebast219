@@ -23,7 +23,7 @@
 
 <br>
 
-[Disponible](https://img.shields.io/badge/DISPONIBLE_PARA_CONTRATAR-1a1a1a?style=flat-square&logoColor=white)
+![Disponible](https://img.shields.io/badge/DISPONIBLE_PARA_CONTRATAR-1a1a1a?style=flat-square&logoColor=white)
 ![Remoto](https://img.shields.io/badge/REMOTO_%7C_REUBICACION-1a1a1a?style=flat-square)
 ![Visitas](https://komarev.com/ghpvc/?username=sebast219&color=1a1a1a&style=flat-square&label=VISITAS+AL+PERFIL)
 
