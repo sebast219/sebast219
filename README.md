@@ -61,7 +61,7 @@
   <h2>🛒 <strong>ECOMMERCE ARCHITECT</strong></h2>
 </div>
 
-```typescript
+```javascript
 const ecommerceDeveloper = {
   name: "Sebastian Yepes Padilla",
   role: "Full Stack Developer",
