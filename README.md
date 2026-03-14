@@ -1,5 +1,6 @@
+<!-- Banner con diseño cyberpunk profesional -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sebast219/sebast219/main/.github/banner.png" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=00D9FF&strokeWidth=3&desc=Full+Stack+Engineer+%7C+Database+Optimizer&descSize=20&descAlign=50&descAlignY=70&color=0D1117" width="100%" alt="Banner">
 </div>
 
 <h1 align="center">
